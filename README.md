@@ -1,7 +1,6 @@
 
 # Hello, I'm Mayur 👋
 
-## About Me
 I'm a passionate software developer with a love for creating innovative solutions. I enjoy working with various technologies and continuously learning new skills.
 
 - 🔭 I’m currently working on a live project as a Javascript developer in PTC Software
